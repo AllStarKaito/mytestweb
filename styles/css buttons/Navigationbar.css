@@ -1,0 +1,59 @@
+.navbarbutton1{
+    width: 80px;
+    height: 60px;
+    border-style: none;
+
+    
+    
+
+}
+.navbarbutton1:hover{
+    cursor: pointer;
+    opacity: 50%;
+    color: red;
+    
+
+}
+
+
+
+.navbarbutton2{
+    width: 80px;
+    height: 60px;
+    border-style: none;
+
+    
+    
+
+}
+.navbarbutton2:hover{
+    cursor: pointer;
+    opacity: 50%;
+
+
+}
+
+
+
+
+
+
+
+
+
+.navbarbutton3{
+    width: 80px;
+    height: 60px;
+    border-style: none;
+
+    
+    
+
+}
+
+.navbarbutton3:hover{
+    cursor: pointer;
+    opacity: 50%;
+
+
+}

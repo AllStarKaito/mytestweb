@@ -1,0 +1,28 @@
+.topbarbutton{
+    border-color: rgba(218, 13, 13, 0);
+    box-shadow: none;
+    width: 275px;
+    height: 25px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    
+
+}
+
+
+
+
+.topbarbutton2{
+    border-color: rgba(201, 16, 16, 0);
+    box-shadow: none;
+    width: 235px;
+    height: 25px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+}
+.topbarbutton:hover{
+    cursor:pointer;
+
+}
